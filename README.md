@@ -1,3 +1,4 @@
+#🎓Student Exam Score Predictor
 A Machine Learning project that predicts a student's exam score based on academic, lifestyle, and personal factors using a Random Forest Regressor model.
 
 The project includes:
